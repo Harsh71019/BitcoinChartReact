@@ -93,7 +93,7 @@ class App extends React.Component {
     return (
       <div className={classes["chart-container"]}>
         <h1 className="header">
-          Bitcoin Live Data Chart Updating Every Second!
+          Bitcoin Live Data Chart Updating Every Second!!
         </h1>
         <Chart
           data={this.state.lineChartData}
