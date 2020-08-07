@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Harsh71019/BitcoinChartReact/static/css/main.a7991542.chunk.css",
+    "main.js": "/Harsh71019/BitcoinChartReact/static/js/main.b0e97dc7.chunk.js",
+    "main.js.map": "/Harsh71019/BitcoinChartReact/static/js/main.b0e97dc7.chunk.js.map",
+    "runtime-main.js": "/Harsh71019/BitcoinChartReact/static/js/runtime-main.efc968fb.js",
+    "runtime-main.js.map": "/Harsh71019/BitcoinChartReact/static/js/runtime-main.efc968fb.js.map",
+    "static/js/2.cba32de1.chunk.js": "/Harsh71019/BitcoinChartReact/static/js/2.cba32de1.chunk.js",
+    "static/js/2.cba32de1.chunk.js.map": "/Harsh71019/BitcoinChartReact/static/js/2.cba32de1.chunk.js.map",
+    "index.html": "/Harsh71019/BitcoinChartReact/index.html",
+    "precache-manifest.944b09ee92a7f6deeef863ca416169cb.js": "/Harsh71019/BitcoinChartReact/precache-manifest.944b09ee92a7f6deeef863ca416169cb.js",
+    "service-worker.js": "/Harsh71019/BitcoinChartReact/service-worker.js",
+    "static/css/main.a7991542.chunk.css.map": "/Harsh71019/BitcoinChartReact/static/css/main.a7991542.chunk.css.map",
+    "static/js/2.cba32de1.chunk.js.LICENSE.txt": "/Harsh71019/BitcoinChartReact/static/js/2.cba32de1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efc968fb.js",
+    "static/js/2.cba32de1.chunk.js",
+    "static/css/main.a7991542.chunk.css",
+    "static/js/main.b0e97dc7.chunk.js"
+  ]
+}
